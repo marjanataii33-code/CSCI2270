@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 -Wall -g CMakeFiles/test_steps.dir/stepcounter.cpp.o CMakeFiles/test_steps.dir/test_case.cc.o -o test_steps  -lgtest_main /usr/lib/x86_64-linux-gnu/libgtest.a -lpthread 
